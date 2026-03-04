@@ -13,7 +13,6 @@ body{
     background: url(ss.png)no-repeat;
     background-position: center;
     background-size: cover;
-
 }
 .container{
     width: 400px;
@@ -35,7 +34,6 @@ h2{
     font-size: 2em;
 }
 .form-grp{
-    
     border-bottom: 3px solid #ffffff;
     position: relative;
     width: 330px;
